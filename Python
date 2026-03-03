@@ -1,0 +1,23 @@
+# Data-analytics
+# Python introduction
+Meaning : Python Is a general purpose, Dynamic, high level And interpreted programming language.
+Example : print ("Hello, World")
+Output : Hello, World
+
+# Datatype Of Python 
+1. Numeric:
+  a. Integer(int)
+  b. Float
+  c. Complex
+2. Text Type:
+  a. String(str)
+3. Boolean Type: (bool)
+4. Sequence Type:
+  a. List
+  b. Tuple
+  c. Range
+5. Set Type:
+  a. Set 
+  b. Frozenset
+6. Mapping Type:
+  a. Dictionary(dict)
